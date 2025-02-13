@@ -2,7 +2,7 @@
 
 # DOCUMENTACIÓN DE REGISTROS DE CYBERSEGURIDAD
 
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%Español-000000" alt="Registros Español" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20Español-000000" alt="Registros Español" /></a>
 <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Registros%20Inglés-green" alt="Registros Inglés" /></a>
 
 ### Objetivos
@@ -30,7 +30,7 @@ Al consolidar estos logs en un único repositorio, buscamos crear una base de co
 - Análisis de red y algoritmos creados con lenguajes de código (Linux, SQL, Python) para la automatización de la captura, examen y análisis de tráfico de red.
 - Herramientas de generación de telemetría para crear escenarios realistas de tráfico de red y ataques.
 
-### ategories de Registros:
+### Categorías de Registros:
 
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Auditorias" target="_blank" rel="noreferrer noopener">Registros Auditorías</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Control%20Acceso" target="_blank" rel="noreferrer noopener">Registros Control Acceso</a>
