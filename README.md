@@ -25,6 +25,14 @@ Al consolidar estos logs en un único repositorio, buscamos crear una base de co
 
 ### Herramientas Usadas
 
+![Static Badge](https://img.shields.io/badge/Google%20SecOps-000000?logo=google&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-000000?logo=splunk&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/TCPDump-000000?logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Wireshark-000000?logo=wireshark&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Linux-000000?logo=linux&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/SQL-000000?logo=sqlite&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+
 - Sistemas de Gestión de Eventos e Información de Seguridad (SIEM) (Google SecOps y Splunk) para ingesta y análisis de logs.
 - Herramientas de análisis de red (TCPDump, Wireshark) para captura y examen de tráfico de red.
 - Análisis de red y algoritmos creados con lenguajes de código (Linux, SQL, Python) para la automatización de la captura, examen y análisis de tráfico de red.
