@@ -40,7 +40,7 @@ Al consolidar estos logs en un único repositorio, buscamos crear una base de co
 
 ### Abrir / Descargar desde Drive:
 
-<a href="https://drive.google.com/drive/folders/1ST1AQ776h-TWx6zaGM4goDLOiirBjVHQ?usp=drive_link" target="_blank" rel="noreferrer noopener">Documentación de Registros de Ciberseguridad en Español</a>
+- <a href="https://drive.google.com/drive/folders/1ST1AQ776h-TWx6zaGM4goDLOiirBjVHQ?usp=drive_link" target="_blank" rel="noreferrer noopener">Documentación de Registros de Ciberseguridad en Español</a>
 
 ### Descargar desde GitHub por Categorías de Registros:
 
