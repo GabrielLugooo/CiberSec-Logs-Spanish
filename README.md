@@ -40,7 +40,7 @@ Al consolidar estos logs en un único repositorio, buscamos crear una base de co
 
 ### Abrir / Descargar desde Drive:
 
-<a href="https://drive.google.com/drive/folders/1ST1AQ776h-TWx6zaGM4goDLOiirBjVHQ?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Documentación%20de%20Registros%20de%20Ciberseguridad-000000" alt="Documentación de Registros de Ciberseguridad" /></a>
+<a href="https://drive.google.com/drive/folders/1ST1AQ776h-TWx6zaGM4goDLOiirBjVHQ?usp=drive_link" target="_blank" rel="noreferrer noopener">Documentación de Registros de Ciberseguridad en Español</a>
 
 ### Descargar desde GitHub por Categorías de Registros:
 
@@ -48,7 +48,7 @@ Al consolidar estos logs en un único repositorio, buscamos crear una base de co
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Control%20Acceso" target="_blank" rel="noreferrer noopener">Registros Control Acceso</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Evaluacion%20Vulnerabilidades" target="_blank" rel="noreferrer noopener">Registros Evaluación Vulnerabilidades</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Incidentes" target="_blank" rel="noreferrer noopener">Registros Incidentes</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Indicadores%20IOC" target="_blank" rel="noreferrer noopener">Indicadores IOC</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Indicadores%20IOC" target="_blank" rel="noreferrer noopener">Registros Indicadores IOC</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/PASTA" target="_blank" rel="noreferrer noopener">Registros PASTA</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Phishing" target="_blank" rel="noreferrer noopener">Registros Phishing</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Registro%20Riesgos" target="_blank" rel="noreferrer noopener">Registros Riesgos</a>
