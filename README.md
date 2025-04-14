@@ -38,7 +38,11 @@ Al consolidar estos logs en un único repositorio, buscamos crear una base de co
 - Análisis de red y algoritmos creados con lenguajes de código (Linux, SQL, Python) para la automatización de la captura, examen y análisis de tráfico de red.
 - Herramientas de generación de telemetría para crear escenarios realistas de tráfico de red y ataques.
 
-### Categorías de Registros:
+### Abrir / Descargar desde Drive:
+
+<a href="https://drive.google.com/drive/folders/1ST1AQ776h-TWx6zaGM4goDLOiirBjVHQ?usp=drive_link" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Documentación%20de%20Registros%20de%20Ciberseguridad-000000" alt="Documentación de Registros de Ciberseguridad" /></a>
+
+### Descargar desde GitHub por Categorías de Registros:
 
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Auditorias" target="_blank" rel="noreferrer noopener">Registros Auditorías</a>
 - <a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish/tree/main/Control%20Acceso" target="_blank" rel="noreferrer noopener">Registros Control Acceso</a>
